@@ -1,5 +1,10 @@
 # Modificame
 
+##***Ideas***
+
+-**Compartir documentos**
+
+
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
 > Es nuestro arenero personal
